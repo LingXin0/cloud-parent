@@ -1,0 +1,5 @@
+server:
+  port: 1201
+spring:
+  application:
+    name: demo-websocket

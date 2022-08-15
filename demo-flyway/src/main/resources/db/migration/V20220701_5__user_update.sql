@@ -1,0 +1,3 @@
+INSERT INTO `flyway-demo`.`user` (`id`, `name`, `user_name`, `password`, `phone`, `email`, `create_time`, `update_time`) VALUES (1, '张三', 'zhangsan', '123456', '111', '1', '2022-07-01 14:26:15', '2022-07-01 14:26:18');
+
+INSERT INTO `flyway-demo`.`user` (`id`, `name`, `user_name`, `password`, `phone`, `email`, `create_time`, `update_time`) VALUES (2, '李四', 'lisi', '123456', '111', '1', '2022-07-01 14:26:15', '2022-07-01 14:26:18');
