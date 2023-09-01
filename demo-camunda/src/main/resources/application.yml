@@ -1,0 +1,7 @@
+server:
+  port: 9870
+spring:
+  application:
+    name: demo-camunda
+logging:
+  config: classpath:logback.xml

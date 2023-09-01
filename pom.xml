@@ -9,6 +9,11 @@
         <module>demo-elasticsearch</module>
         <module>demo-websocket</module>
         <module>demo-xxl-job</module>
+        <module>dome-text</module>
+        <module>demo-wps</module>
+        <module>demo-poi</module>
+        <module>demo-camunda</module>
+        <module>demo-io</module>
     </modules>
 
     <parent>

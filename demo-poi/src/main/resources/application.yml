@@ -1,0 +1,7 @@
+server:
+  port: 1203
+spring:
+  application:
+    name: demo-poi
+logging:
+  config: classpath:logback.xml
